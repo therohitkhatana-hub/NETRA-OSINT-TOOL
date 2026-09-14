@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Local databases & search indexes
+*.db
+dossier.db
+netra.db
+search_index/
+
+# Environment variables & secrets
+.env
+
+# Generated reports & graphs
+*.pdf
+*.png
+case_graph
+case_graph.png
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
